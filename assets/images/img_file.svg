@@ -1,3 +1,10 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M14 2.26953V6.40007C14 6.96012 14 7.24015 14.109 7.45406C14.2049 7.64222 14.3578 7.7952 14.546 7.89108C14.7599 8.00007 15.0399 8.00007 15.6 8.00007H19.7305M16 13H8M16 17H8M10 9H8M14 2H8.8C7.11984 2 6.27976 2 5.63803 2.32698C5.07354 2.6146 4.6146 3.07354 4.32698 3.63803C4 4.27976 4 5.11984 4 6.8V17.2C4 18.8802 4 19.7202 4.32698 20.362C4.6146 20.9265 5.07354 21.3854 5.63803 21.673C6.27976 22 7.11984 22 8.8 22H15.2C16.8802 22 17.7202 22 18.362 21.673C18.9265 21.3854 19.3854 20.9265 19.673 20.362C20 19.7202 20 18.8802 20 17.2V8L14 2Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="24" height="24" fill="black" fill-opacity="0.2"/>
+<rect x="0.5" y="0.5" width="24" height="24" fill="black" fill-opacity="0.2"/>
+<path d="M5.75 2.74902H2.75C1.92157 2.74902 1.25 3.4206 1.25 4.24902V22.249C1.25 23.0775 1.92157 23.749 2.75 23.749H22.25C23.0784 23.749 23.75 23.0775 23.75 22.249V4.24902C23.75 3.4206 23.0784 2.74902 22.25 2.74902H11.75" stroke="#B0B2C4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.75 11.749L8.75 9.50002L5.75 11.75V2.00002C5.74974 1.80094 5.82864 1.60992 5.96932 1.46905C6.11 1.32818 6.30091 1.24902 6.5 1.24902H11C11.4142 1.24902 11.75 1.58481 11.75 1.99902V11.749Z" stroke="#B0B2C4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.75 19.249H16.25" stroke="#B0B2C4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.75 14.749H19.25" stroke="#B0B2C4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.25 10.249H14.75" stroke="#B0B2C4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="0.5" y="0.5" width="24" height="24" stroke="black" stroke-miterlimit="0" stroke-linejoin="bevel"/>
 </svg>

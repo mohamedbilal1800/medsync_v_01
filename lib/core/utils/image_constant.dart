@@ -138,4 +138,10 @@ class ImageConstant {
   static String imgImage19 = 'assets/images/img_image19.png';
 
   static String imageNotFound = 'assets/images/image_not_found.png';
+
+  static String imgIconContact = 'assets/images/img_icon_contact.svg';
+
+  static String imgIconNotification = 'assets/images/img_icon_notification.svg';
+
+  static String imgIconSupport = 'assets/images/img_icon_support.svg';
 }

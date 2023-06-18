@@ -28,8 +28,8 @@ class CustomSwitch extends StatelessWidget {
       padding: margin ?? EdgeInsets.zero,
       child: FlutterSwitch(
         value: value ?? false,
-        height: getHorizontalSize(null),
-        width: getHorizontalSize(null),
+        height: 800,
+        width: 360,
         onToggle: (value) {
           onChanged!(value);
         },

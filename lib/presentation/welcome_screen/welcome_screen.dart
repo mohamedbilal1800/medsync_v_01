@@ -1,14 +1,25 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:medsync/core/app_export.dart';
 
-class WelcomeScreen extends StatelessWidget {
+class WelcomeScreen extends StatefulWidget {
   const WelcomeScreen({Key? key})
       : super(
           key: key,
         );
 
   @override
+  State<WelcomeScreen> createState() => _WelcomeScreenState();
+}
+
+class _WelcomeScreenState extends State<WelcomeScreen> {
+  @override
   Widget build(BuildContext context) {
+    Timer(
+        Duration(seconds: 3),
+        () =>
+            Navigator.pushNamed(context, AppRoutes.welcomeScreenSpacingScreen));
     return SafeArea(
       child: Scaffold(
         backgroundColor: ColorConstant.whiteA700,

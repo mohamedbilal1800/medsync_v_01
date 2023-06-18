@@ -60,6 +60,8 @@ class ColorConstant {
 
   static Color whiteA700 = fromHex('#ffffff');
 
+  static Color black90033 = fromHex('#33000000');
+
   static Color fromHex(String hexString) {
     final buffer = StringBuffer();
     if (hexString.length == 6 || hexString.length == 7) buffer.write('ff');
